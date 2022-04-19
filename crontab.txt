@@ -1,0 +1,2 @@
+* * * * * /opt/dynamic-work/dynamic-work.sh
+* * * * * /opt/dynamic-work/dynamic-work-group.sh
